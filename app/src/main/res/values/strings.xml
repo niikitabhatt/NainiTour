@@ -1,0 +1,271 @@
+<resources>
+    <string name="app_name">NainiGuide</string>
+    <string name="address"><b>Address</b>-Nanital,India</string>
+    <string name="timing"><b>Timing</b>-24hrs</string>
+    <string name="byair">Pantnagar, about 70 km from Nainital
+        , is the nearest airport with direct ights to Delhi. From here you have to either hire a cab or take a bus. </string>
+    <string name="bytrain">Kathgodam, 35 km away, is the nearest railhead. Trains link the town to Delhi,
+        Kolkata, Dehradun and Lucknow. From Kathgodam, there are taxis available on
+        shared seat basis, for those on shoestring budgets. Regular cabs and buses are also at your service</string>
+    <string name="bybus">There is a great network of both AC and non AC buses to and from Nainital.
+        Nainital is well connected with all the neighboring cities thought roads. Most of the tourists prefer
+        to reach Nainital by road.
+    </string>
+    <string name="air">By Air</string>
+    <string name="train">By Train</string>
+    <string name="road">By Road</string>
+    <string name="historyname">History Of Nainital</string>
+    <string name="history"> A former British health resort,
+        Nainital also has quite a bit of history to intrigue the travelers visiting the land. Just like other Indian hill stations of Mussoorie,
+        Darjeeling and Kodaikanal, the British were the first to discover the town of Nainital and push it to prominence
+    </string>
+    <string name="aboutname">Nainital - The Lake District of India :- </string>
+    <string name="about">Nainital is one of the most charismatic hill stations that India harbors.
+    Nainital boasts of Nine different lakes, shares its boundary with one of the most visited National Parks (Corbett National
+    Park only 60 kms) in the country, has Lush Green Valley view of the Hills and lower forested ridges and
+    obviously is part of the Mighty Glittering Himalayan Range. Nainital
+    is a must visit destination for any nature lover who wants to move out of the chaotic city life and be in the lap of nature.</string>
+
+    <string name="mainheading">"Nainital - The Lake District of India"</string>
+    <string name="mainabout">About</string>
+    <string name="placetovisit">Place To Visit</string>
+    <string name="hotels">Hotels</string>
+    <string name="localfood">Famous Local Food</string>
+    <string name="adventure">Adventours Activity</string>
+    <string name="howtoreach">How To Reach</string>
+    <string name="booking">For Hotel Booking , Local Guide and other information Contact-</string>
+    <string name="phone">7456348821</string>
+    <string name="web">www.nainiguide.com</string>
+    <string name="gmail">nainiguide@gmail.com</string>
+    <string name="rete">Rate This App</string>
+    <string name="nainilake">Naini Lake</string>
+    <string name="beauty">Tempting Beauty</string>
+    <string name="nainital">NAINITAL</string>
+    <string name="welcome">Welcome To</string>
+    <string name="queen">Queen</string>
+    <string name="ofhills">Of The Hills</string>
+    <string name="adventurename1">Boating</string>
+    <string name="adventurename2">Trekking</string>
+    <string name="adventurename3">Rock Climbing</string>
+    <string name="adventurename4">River Crossing</string>
+    <string name="adventurename5">Zorbing</string>
+    <string name="adventurename6">Rappelling</string>
+    <string name="adventurename7">Horse Riding</string>
+    <string name="adventurename8">Paragliding</string>
+    <string name="adventureDescription1">N a i n i L a k e
+                a natural freshwater lake in Nainital
+                 provides the tourists opportunities of boating and yachting. </string>
+    <string name="adventureDescription2">Being a hill station, Nainital offers its visitors a large number
+        of trekking options, amidst the scenic beauty of nature. The most popular trails include Nainital Betalghat Trek,
+        Nainital Binayak Trek,
+                 Nainital Kainchi Trek, Nainital  Kilbury  Trek, Nainital Kunjakharak Trek, and Snow View Trek</string>
+    <string name="adventureDescription3">Rock climbing helps you test your physical and mental limits.
+                "This wonderful activity also help you in conquering newer potentials</string>
+    <string name="adventureDescription4">Your search for an adventurous and thrilling experience stops here.
+                Venture into this exciting activity and see the world upside down</string>
+
+    <string name="adventureDescription5">If you are an adventure enthusiast and want to have some fun,
+                then come to Nainatal for water zorbing activity</string>
+    <string name="adventureDescription6">Rappelling is a form of adventure activity, in which an administered decent is done
+                from a vertical or steep slope, with the help of a harness and rope</string>
+    <string name="adventureDescription7">A visit to Nainital cannot be complete unless and until you get a taste of  horse riding
+                especially in the Mall area. Apart from that, you can also hire a horse or pony for going to Snow View Point,
+                Tifn Top, and Kilburi, from the Mallital area</string>
+    <string name="adventureDescription8">The Para gliders can fly in the air for hours with the help of the glider and climb to altitudes, more than 10,000 feet high
+                .Paraliding activities in Nainital are operated in surrounding areas of Naukuchiatal, Bhimtal</string>
+    <string name="ad1name">Eco Cave Gardens</string>
+    <string name="ad2name">Nainital Ropeway</string>
+    <string name="ad1desc">Address: Kaladungi Road | Mallital, Nainital, India</string>
+    <string name="ad2desc">Address- Nanital,India</string>
+    <string name="ad1timing"> Timings: 09:30 am - 05:30 pm</string>
+    <string name="ad2timing">Timings-10 am to 4 pm</string>
+    <string name="lfname1">Raas:</string>
+    <string name="lfname2">Bhatt ki Churkani:</string>
+    <string name="lfname3">Baadi</string>
+    <string name="lfname4">Baal Mithai:</string>
+    <string name="lfdesc1">A curry, which is prepared with a combination of various Daals
+                and is usually eaten during the winter season, with steamed rice and Bhang ki Chutney.
+                It is prepared in a huge iron pan, since people believe it adds to the food’s nutritional value.
+                A semi-liquid dish, Raas is made in varying levels of spicy-ness to suit different taste-buds.</string>
+    <string name="lfdesc2">This is a prominent part of festivals and celebrations in Nainital
+                and is made of rice paste and plain flour.
+                This dish usually acts as a dry accompaniment to curry-dishes. </string>
+    <string name="lfdesc3">A favourite among locals, this is made with a combination of Arhar,
+                Moong and Chana Dals. To add that extra punch,
+                some preparations also include the zingy flavour of Bhaang and Sesame seeds.</string>
+    <string name="lfdesc4">This chocolate like fudge is actually prepared by
+                roasting khoya till it turns a muddy brown, and is then coated with white sugar balls.
+                 The best place to try out this one is Bada Bazaar, where this sweet is still prepared at old shops.
+                  Most of these are very specific to the locals in Nainital, cooked mostly in their homes and on festivals.
+                 It might be hard to find at usual restaurants in Nainital, unless on rare, speiscial festivals and events.
+                 If you rent a cottage and have a cook-on-board, you could perhaps request him/her to cook
+                 up a typical food of Nainital. The staff at the hotel where you’re staying might also be
+                 able to point you towards some offbeat places
+                for local food. Or if it’s your lucky day, they might even offer to cook a meal
+                for you at their homes!</string>
+    <string name="hn1">Hotel Himalaya</string>
+    <string name="hn2">Happy Homes</string>
+    <string name="hn3">Hotel New Bharat</string>
+    <string name="hn4">Sweet Home Guest House</string>
+    <string name="hn5">Hotel Prim Rose</string>
+    <string name="hn6">Hotel Green Leaf</string>
+    <string name="hn7">The Manu Maharani Hotel</string>
+    <string name="hn8">Ashok Hotel</string>
+    <string name="hn9">Hotel Maharaja</string>
+    <string name="hd1">Address-Near Bus Stand Tallital, Nainital .Situated on a lake,
+                 this hotel is within 2 mi (3 km) of Nainital Lake, Naina Devi Temple, and Snow View Point.
+                China Peak and Ghorakhal Temple are also within ...</string>
+    <string name="hd2">Address-Happy Homes, Nainital
+ Situated in Nainital, this hotel
+                 is within 1 mi (2 km) of Nainital Lake and Naina Devi Temple.
+                 Snow View Point is 1.6 mi (2.6 km) away.</string>
+    <string name="hd3">Address-Zoo Road, Nainital Situated in Nainital,
+                this guesthouse is within 2 mi (3 km) of Nainital Lake, Naina Devi Temple, and Snow View Point.
+                China Peak and Ghorakhal Temple are also ...</string>
+    <string name="hd4">Near Rickshaw Stand, Zoo Rd, Nainital .Situated in Nainital,
+                this guesthouse is within 2 mi (3 km)
+        of Nainital Lake, Naina Devi Temple, and Snow View Point. China Peak and Ghorakhal Temple are also ...</string>
+    <string name="hd5">Address-Zoo Road, Nainital. Situated in Nainital, this hotel
+                is within 1 mi (2 km) of Nainital Lake and Naina Devi Temple. Snow View Point is 1.5 mi
+                (2.5 km) away.</string>
+    <string name="hd6">Address-Hotel Green Leaf Rajbhawan Rd, Nainital.Situated in Nainital,
+                this hotel is
+                within 3 mi (5 km) of Nainital Lake, Naina Devi Temple, and Snow View Point.
+                 China Peak and Ghorakhal Temple are also within ...</string>
+    <string name="hd7">Manu Maharani Hotel Nainital has 4 stars with 67 rooms in Nainital - Uttarakhand
+                , rated 8.7 /10,Very Good.
+                This hotel is about 40 km. from Pantnagar Airport (PGH), Nainital.
+                Number of rooms: 67</string>
+    <string name="hd8">Address- near Bus Station ,Nainital ,India.
+    It is one of the oldest hotel in Nainital.The distinguished feature of ashok hotel is that as you step down from automobile,
+    you donot have to climb at all.Pick up your dates,contact us for reservation and prepare for memorable holidays..</string>
+    <string name="hd9">Hotel Maharaja is an intimate owner managed budget hotel on Zoo Road (Upper Mall)
+        with 24 neat and clean rooms fitted with all modern amenities. The hotel faces the
+        lake and you can enjoy fabulous views of the town and the lake from the verandahs.
+        We have a variety of accommodation options for couples, families and groups to suit
+        specific needs of our guests. We pride ourselves
+                in personalized service, good food and comfortable stay. The rooms have wooden
+                 paneling and are warm and comfortable</string>
+
+    <string name="ln1">Naini Lake</string>
+    <string name="ln2">Gurney House</string>
+    <string name="ln3">Governer House</string>
+    <string name="ln4">Sonapani Himalayan Village</string>
+    <string name="ld1">Address- Nanital,India</string>
+    <string name="ld2">Address-Aryapatta Hill, Nainital, India</string>
+    <string name="ld3">Address: Amghari, Nainital,India</string>
+    <string name="ld4">Address: Satoli, 40 kms from Nainital Mukteshwar,India</string>
+    <string name="lt1">Timings-24 hrs</string>
+    <string name="lt2">Timings-8am to 7pm</string>
+    <string name="lt3">Timings: 08:00 am - 04:00 pm</string>
+    <string name="lt4">Timings-24 hrs</string>
+
+    <string name="nn1">Naini Peak</string>
+    <string name="nn2">Sattaal</string>
+    <string name="nn3">Khurpa Taal</string>
+    <string name="nn4">Saria taal</string>
+    <string name="nn5">Botonical Garden</string>
+    <string name="nd1">Address: 6 km from Nainital town, Nainital, Uttarakhand 263001,India</string>
+    <string name="nd2">Address-Aryapatta Hill, Nainital, India</string>
+    <string name="nd3">Address: 11 Km From Mallital, Nainital, India</string>
+    <string name="nd4">Address: Satoli, 40 kms from Nainital Mukteshwar,India</string>
+    <string name="nd5">Address- Saria Tal, Nainital-Kaladhungi Road, Nainital, India</string>
+    <string name="nt1">Timings-24 hrs</string>
+    <string name="nt2">Timings-24 hrs</string>
+    <string name="nt3">Timings-24 hrs</string>
+    <string name="nt4">Timings-24 hrs</string>
+    <string name="nt5">Timings-10am to 5 pm</string>
+    <string name="l">Leisure</string>
+    <string name="Nature">Nature</string>
+    <string name="Religious">Religious</string>
+    <string name="Adventure">Adventure</string>
+    <string name="Wildlife">Wildlife</string>
+    <string name="Shopping">Shopping</string>
+    <string name="SightSeeing">SightSeeing</string>
+
+    <string name="rn1">Naina Devi Temple</string>
+    <string name="rn2">Hanuman Garhi Temple</string>
+    <string name="rn3">Kainchi Dham</string>
+    <string name="rn4">Gurudwara Shri Guru Singh Sabha</string>
+    <string name="rn5">Jama Masjid (Mosque)</string>
+    <string name="rn6">St. John’s Church</string>
+    <string name="rn7">Mukteshwar Temple</string>
+    <string name="rd1">Address- Ayarpatta, Nainital, Uttarakhand 263002</string>
+    <string name="rd2">Address- south of Tallital,Nanital,India</string>
+    <string name="rd3">Address: NH 87, Bhowali Range, Uttarakhand 263132, India</string>
+    <string name="rd4">Address- Nanital,India</string>
+    <string name="rd5">Address- Nanital,India</string>
+    <string name="rd6">Address- Nanital,India</string>
+    <string name="rd7">Address: Mukteshwar | Near Chauli Ki Jali, Nainital,India</string>
+    <string name="rt1">Timings: 05:00 am - 07:00 pm</string>
+    <string name="rt2">Timings: 05:00 am - 07:00 pm</string>
+    <string name="rt3">Timings: 05:00 am - 04:00 pm</string>
+    <string name="rt4">Timings: 05:00 am - 07:00 pm</string>
+    <string name="rt5">Timings: 05:00 am - 07:00 pm</string>
+    <string name="rt6">Timings: 05:00 am - 07:00 pm</string>
+    <string name="rt7">Timings: 06:30 am - 07:30 pm</string>
+
+    <string name="rtn1">Giannis Pure Veg</string>
+    <string name="rtn2">Sakley Restaurant and Pastry Shop</string>
+    <string name="rtn3">Machan Restaurant</string>
+    <string name="rtn4">Zooby Kitchen</string>
+    <string name="rtn5">Cafe Chica</string>
+    <string name="rtn6">Nanak Restaurant</string>
+    <string name="rtn7">Sher-e-Punjab</string>
+    <string name="rtn8">Chandani Chowk</string>
+    <string name="rtn9">Honey Hut</string>
+    <string name="rtn10">Embassy</string>
+    <string name="rtn11">the Dhaba by Royal Kitchen</string>
+    <string name="rtn12">Shiva Vegetarian Restaurant</string>
+    <string name="rtd1">Indian Asian Vegetarian Friendly Vegan Options</string>
+    <string name="rtd2">Cafe Vegetarian Friendly Vegan Options</string>
+    <string name="rtd3">Chinese Indian Asian International Vegetarian Friendly Vegan Options</string>
+    <string name="rtd4">Indian Grill Vegan Options Halal Gluten Free Options Vegetarian Frie</string>
+    <string name="rtd5">Grill Italian Cafe British Vegetarian Friendly Vegan Options</string>
+    <string name="rtd6">Indian Asian Vegan Options Vegetarian Friendly Gluten Free Options</string>
+    <string name="rtd7">Indian Asian Vegan Options Vegetarian Friendly</string>
+    <string name="rtd8">Cafe Fast food Vegan Options</string>
+    <string name="rtd9">Indian Asian Vegan Options Vegetarian Friendly</string>
+    <string name="rtd10">Indian Asian Vegetarian Friendly Vegan Options</string>
+    <string name="rtd11">Indian Asian International Vegetarian Friendly Vegan Options</string>
+    <string name="rtd12">Indian Asian Vegetarian Friendly Vegan Options Gluten Free Options</string>
+
+    <string name="sn1">Bara Bazaar</string>
+    <string name="sn2">Tibetan Market</string>
+    <string name="sn3">The Mall Road</string>
+    <string name="sd1">Address- Mallital, Nainital 263139, India</string>
+    <string name="sd2">Address- Nanital,India</string>
+    <string name="sd3">Address- Nanital,India</string>
+    <string name="st1">Hours Today: 9:00 AM - 8:00 PM</string>
+    <string name="st2">Hours Today: 9:00 AM - 8:00 PM</string>
+    <string name="st3">Hours Today: 7:00 AM - 10:00 PM</string>
+
+    <string name="ssn1">Tiffin Top</string>
+    <string name="ssn2">Snow View</string>
+    <string name="ssn3">Kalagarh Bridge</string>
+    <string name="ssn4">Camels Back</string>
+    <string name="ssn5">Suspension Bridge</string>
+    <string name="ssd1">Address: Ayarpatta Hills, Nainital, India</string>
+    <string name="ssd2">Address- Nanital,India</string>
+    <string name="ssd3">Address- Near Corbett National Park,Nanital,India</string>
+    <string name="ssd4">Address- Nanital,India</string>
+    <string name="ssd5">Address-Ramnagar, Nainital, India</string>
+    <string name="sst1">Timings-24 hrs</string>
+    <string name="sst2">Timings-24 hrs</string>
+    <string name="sst3">Timings-24 hrs</string>
+    <string name="sst4">Timings-24 hrs</string>
+    <string name="sst5">Timings-24 hrs</string>
+
+    <string name="w1">Nainital Zoo</string>
+    <string name="w2">Pangot And Kilbury Bird Sanctuary</string>
+    <string name="w3">Sonandi Wildlife Sanctuary</string>
+    <string name="wd1">Address- Nanital,India</string>
+    <string name="wd2">Pangot, Near Jeolikot, Nainital, Uttarakhand 263002, India</string>
+    <string name="wd3">Address- Sonanadi Wildlife Sanctuary, Nainital, Uttarakhand</string>
+    <string name="wt1">Timings-10:00 am - 04:30 pm</string>
+    <string name="wt2">Timings-10:00 am - 04:30 pm</string>
+    <string name="wt3">Timings-10:00 am - 5 pm</string>
+
+
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/n8"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mainheight"
+        android:layout_marginTop="@dimen/aboutpaddingleft"
+        android:text="@string/beauty"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/mainheight"
+        android:layout_marginTop="@dimen/aboutpaddingleft"
+        android:text="@string/nainital"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize"
+        android:textStyle="bold"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height1"
+        android:text="@string/welcome"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+
+        android:textSize="@dimen/abouttextsize"
+        android:textStyle="italic"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height1"
+        android:text="@string/queen"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/abouttextsize"
+        android:textStyle="italic"
+        android:typeface="serif" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height1"
+        android:text="@string/ofhills"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/abouttextsize"
+        android:textStyle="italic"
+        android:typeface="serif" />
+</LinearLayout>

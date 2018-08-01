@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.knbhatt.nainitour1.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/activity_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.knbhatt.nainiguide.MainActivity">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/imageheight"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical">
+
+            <android.support.v4.view.ViewPager
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            </android.support.v4.view.ViewPager>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/aboutpaddingleft"
+            android:paddingTop="@dimen/padding"
+            android:layout_marginBottom="@dimen/padding"
+            android:textColor="@color/white"
+            android:text="@string/mainheading"
+            android:textSize="@dimen/abouttextsize"
+            android:textStyle="italic" />
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout
+                android:id="@+id/about"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/about" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:textColor="@color/white"
+                    android:text="@string/mainabout"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/placetovisit"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/placestovisit" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:text="@string/placetovisit"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/hotels"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/hotels" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:text="@string/hotels"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/restaurants"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/restaurants" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:text="Restaurants"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/localfood"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/local" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:text="@string/localfood"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/adventure"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/ic_directions_bike_black_24dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:text="@string/adventure"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+
+
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/howtoreach"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:layout_marginTop="@dimen/padding"
+                android:background="@drawable/layoutbg"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/imageh"
+                android:paddingTop="@dimen/padding">
+
+                <ImageView
+                    android:layout_width="@dimen/width1"
+                    android:layout_height="@dimen/height1"
+                    android:src="@drawable/howtoreach" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/height1"
+                    android:layout_marginLeft="@dimen/aboutpaddingleft"
+                    android:text="@string/howtoreach"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/abouttextsize" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="end">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/aboutpaddingleft"
+            android:paddingTop="@dimen/aboutpaddingtop"
+            android:text="@string/booking"
+            android:textColor="@color/white"
+            android:textSize="@dimen/abouttextsize" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height1"
+            android:layout_marginTop="@dimen/padding">
+
+            <ImageView
+                android:layout_width="@dimen/width1"
+                android:layout_height="@dimen/reachheight"
+                android:layout_marginLeft="@dimen/aboutpaddingleft"
+                android:src="@drawable/phone" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height1"
+                android:autoLink="phone"
+                android:paddingLeft="@dimen/aboutpaddingleft"
+                android:text="@string/phone"
+                android:textColorLink="@color/white"
+                android:textSize="@dimen/ts" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height1"
+            android:layout_marginTop="@dimen/padding">
+
+            <ImageView
+                android:layout_width="@dimen/width1"
+                android:layout_height="@dimen/reachheight"
+                android:layout_marginLeft="@dimen/aboutpaddingleft"
+                android:src="@drawable/web" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:paddingLeft="@dimen/aboutpaddingleft"
+                android:text="@string/web"
+                android:textColorLink="@color/white"
+                android:textSize="@dimen/ts" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height1"
+            android:layout_marginTop="@dimen/padding">
+
+            <ImageView
+                android:layout_width="@dimen/height1"
+                android:layout_height="@dimen/reachheight"
+                android:layout_marginLeft="@dimen/aboutpaddingleft"
+                android:src="@drawable/ic_email_black_24dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:autoLink="email"
+                android:paddingLeft="@dimen/aboutpaddingleft"
+                android:text="@string/gmail"
+                android:textColorLink="@color/white"
+                android:textSize="@dimen/ts" />
+        </LinearLayout>
+
+        <RatingBar
+            android:id="@+id/simpleRatingBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/white"
+            android:layout_marginTop="@dimen/width1"
+            android:rating="2" />
+
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/rete" />
+
+
+    </LinearLayout></ScrollView>
+
